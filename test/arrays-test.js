@@ -5,6 +5,10 @@ const fs = require('fs')
 const jsdom = require('mocha-jsdom')
 const path = require('path')
 
+<<<<<<< HEAD
+=======
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+>>>>>>> b49043f9877cd1525eb749abdb70887eaa3ffbed
 
 describe('arrays', () => {
   jsdom({
